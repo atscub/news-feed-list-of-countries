@@ -3308,18 +3308,18 @@
       "publication_rss_feed_uri": "http://sun.mv/feed/"
     },
     {
-      "publication_name": "Psmnews.mv"
-      "publication_website_uri": "https://psmnews.mv/"
+      "publication_name": "Psmnews.mv",
+      "publication_website_uri": "https://psmnews.mv/",
       "publication_rss_feed_uri": "https://psmnews.mv/feed/"
     },
     {
-      "publication_name": "Vnews.mv"
-      "publication_website_uri": "https://vnews.mv/"
+      "publication_name": "Vnews.mv",
+      "publication_website_uri": "https://vnews.mv/",
       "publication_rss_feed_uri": "https://vnews.mv/rss/"
     },
     {
-      "publication_name": "Vaguthu.mv"
-      "publication_website_uri": "https://vaguthu.mv/"
+      "publication_name": "Vaguthu.mv",
+      "publication_website_uri": "https://vaguthu.mv/",
       "publication_rss_feed_uri": "https://vaguthu.mv/feed/"
     }
   ],
@@ -4102,6 +4102,16 @@
       "publication_name": "A Voz de Trás-os-Montes",
       "publication_website_uri": "https://www.avozdetrasosmontes.pt/",
       "publication_rss_feed_uri": "https://www.avozdetrasosmontes.pt/feed"
+    },
+    {
+      "publication_name": "Sapo Notícias (Destaques)",
+      "publication_website_uri": "https://sapo.pt/",
+      "publication_rss_feed_uri": "https://sapo.pt/rss/destaques"
+    },
+    {
+      "publication_name": "Diário de Notícias",
+      "publication_website_uri": "https://www.dn.pt/",
+      "publication_rss_feed_uri": "https://www.dn.pt/stories.rss/"
     }
   ],
   "PRI": [
