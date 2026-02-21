@@ -844,6 +844,26 @@
       "publication_name": "Prensa latina",
       "publication_website_uri": "http://prensa-latina.cu/",
       "publication_rss_feed_uri": "http://www.laprensalatina.com/feed/"
+    },
+    {
+      "publication_name": "El Toque",
+      "publication_website_uri": "https://eltoque.com/",
+      "publication_rss_feed_uri": "https://eltoque.com/api/feed"
+    },
+    {
+      "publication_name": "14 y Medio",
+      "publication_website_uri": "https://www.14ymedio.com/",
+      "publication_rss_feed_uri": "https://www.14ymedio.com/rss/"
+    },
+    {
+      "publication_name": "ADN Cuba",
+      "publication_website_uri": "https://adncuba.com/",
+      "publication_rss_feed_uri": "https://adncuba.com/es/news/Actualidad/rss.xml"
+    },
+    {
+      "publication_name": "Cibercuba",
+      "publication_website_uri": "https://www.cibercuba.com/",
+      "publication_rss_feed_uri": "https://www.cibercuba.com/rss.xml"
     }
   ],
   "CYP": [
